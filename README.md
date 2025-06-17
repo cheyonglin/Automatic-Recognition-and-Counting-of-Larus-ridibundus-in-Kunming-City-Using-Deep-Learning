@@ -10,8 +10,6 @@ Please refer to the Documentation for full installation and implementation guide
 
 ![image-20250617075833884](https://raw.githubusercontent.com/cheyonglin/images/main/image-20250617075833884.png)
 
-![1](https://raw.githubusercontent.com/cheyonglin/images/main/1.gif)
-
 ## Abstract
 
 The Larus ridibundus (L.ridibundus), a prominent part of Kunming's landscape, attracts many tourists and boosts the local tourism industry. Effective population monitoring of this species matters for wetland environment evaluation, biodiversity conservation, and ecological civilization construction. Currently, L.ridibundus population statistics mainly rely on manual methods, which are labor-intensive and inefficient. To overcome these limits, we propose a deep learning (DL) framework. It automatically recognizes and counts L.ridibundus by combining CDSP2-YOLOv8n with DeepSORT, aiming to efficiently monitor their population metrics. Our framework uses the optimized YOLOv8n model to achieve excellent multi-object detection for this species. It also uses DeepSORT to effectively reduce target loss from occlusion or overlap during the birds' flight, providing a sophisticated DL approach for population monitoring. Experimental results show the modified CDSP2-YOLOv8n model works well on the collected L.ridibundus multi-object detection dataset. Its mAP@0.5, mAP@0.5:0.95, Precision, and Recall reach 0.9705, 0.6557, 0.9685, and 0.9496 respectively. Also, combining with DeepSORT, the tracking accuracy for L.ridibundus is 89.7%, with precision at 83.5%. Compared to manual counting, our framework has an average accuracy of 91.58%, greatly enhancing the efficiency and accuracy of L.ridibundus population monitoring. In conclusion, we've successfully realized automatic identification and counting of L.ridibundus. This method accurately identifies and stably tracks L.ridibundus, and effectively counts its population. It breaks traditional manual monitoring limits, providing a novel and comprehensive technical means for L.ridibundus monitoring and protection, with high robustness and application value.
@@ -32,6 +30,10 @@ pip install -r requirements.txt
 After setting up the environment, run `System_GUI.py` directly to launch the program and test the sample video.
 
 ![image-20250617080038712](https://raw.githubusercontent.com/cheyonglin/images/main/image-20250617080038712.png)
+
+The test results are as follows：
+
+![1](https://raw.githubusercontent.com/cheyonglin/images/main/1.gif)
 
 ## Contact
 
