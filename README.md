@@ -6,11 +6,9 @@ Yonglin Che, Xiaolong Xie, Rong Guo, Yucheng Zeng, Jiajin Zhang
 
 This repository contains the code for the framework used in this study, which is a method for automated tracking and counting of *L. ridibundus*.
 
-Please refer to the ["Documentation"](https://alexhang212.github.io/YOLO_Behaviour_Repo/) for full installation and implementation guidelines, and the [paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14502) for detailed description of the method!
+Please refer to the Documentation for full installation and implementation guidelines, and the paper for detailed description of the method!
 
-![image-20250616221811532](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250616221811532.png)
-
-
+![image-20250617075833884](https://raw.githubusercontent.com/cheyonglin/images/main/image-20250617075833884.png)
 
 ## Abstract
 
@@ -31,7 +29,7 @@ pip install -r requirements.txt
 
 After setting up the environment, run `System_GUI.py` directly to launch the program and test the sample video.
 
-![image-20250616223941051](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250616223941051.png)
+![image-20250617080038712](https://raw.githubusercontent.com/cheyonglin/images/main/image-20250617080038712.png)
 
 ## Contact
 
