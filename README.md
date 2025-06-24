@@ -33,7 +33,7 @@ After setting up the environment, run `System_GUI.py` directly to launch the pro
 
 The test results are as follows：
 
-![1](https://raw.githubusercontent.com/cheyonglin/images/main/1.gif)
+![test1](https://raw.githubusercontent.com/cheyonglin/images/main/test1.gif)
 
 ## Contact
 
