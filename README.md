@@ -1,4 +1,4 @@
-# Automatic Recognition and Counting of Larus ridibundus in Kunming Using Deep Learning
+# Automatic Recognition and Counting of Larus ridibundus in Kunming City Using Deep Learning
 
 Yonglin Che, Xiaolong Xie, Rong Guo, Yucheng Zeng, Jiajin Zhang
 
